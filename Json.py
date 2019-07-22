@@ -10,3 +10,7 @@ results = data['results']
 USD_ILS = results['USD_ILS']
 val = USD_ILS['val']
 print(val)
+
+
+
+
